@@ -31,4 +31,5 @@ dmypy.json
 
 # Editor/IDE
 .idea/
+/*.iml
 .vscode/
